@@ -7,8 +7,7 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 ## 🧭 Sumário de Conteúdos
 
 ### Parte 1: Introdução e Infraestrutura Básica
-- [ ] 🚀 [Introdução ao curso](./00-introducao/README.md)
-- [ ] 📡 [Módulo 01: Comunicação em um Mundo Conectado](./01-comunicacao-mundo-conectado/README.md)
+- [ ] 📡 [Módulo 01: Comunicação em um Mundo Conectado](./Módulo_1/Tipos_de_Rede.md)
 - [ ] 🖥️ [Módulo 02: Componentes, tipos e conexões de rede](./02-componentes-tipos-conexoes/README.md)
 - [ ] 📶 [Módulo 03: Redes sem fio e móveis](./03-redes-sem-fio-e-moveis/README.md)
 - [ ] 🏠 [Módulo 04: Construindo uma Rede Doméstica](./04-construindo-rede-domestica/README.md)
