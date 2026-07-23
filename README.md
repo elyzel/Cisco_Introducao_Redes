@@ -33,23 +33,3 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 
 ---
 
-## 📁 Estrutura de Pastas
-
-```text
-.
-├── 00-introducao/
-├── 01-comunicacao-mundo-conectado/
-├── 02-componentes-tipos-conexoes/
-├── 03-redes-sem-fio-e-moveis/
-├── 04-construindo-rede-domestica/
-├── 05-principios-comunicacao/
-├── 06-midia-de-rede/
-├── 07-camada-de-acesso/
-├── 08-protocolo-ip/
-├── 09-ipv4-segmentacao/
-├── 10-enderecamento-ipv6/
-├── 11-enderecamento-dinamico-dhcp/
-├── 12-gateways-outras-redes/
-├── 13-processo-arp/
-├── 14-roteamento-entre-redes/
-└── README.md
