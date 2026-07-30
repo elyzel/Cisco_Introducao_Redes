@@ -3,11 +3,11 @@
 
 ## Definição de Internet
 
-Internet é um conjunto mundial de redes interconectadas, que cooperam entre si para trocar informações usando padrões comuns. Também conhecida como "rede de redes", porque é formada literalmente por milhares de redes locais conectadas entre si.
+Internet é ==um conjunto mundial de redes interconectadas==, que cooperam entre si para trocar informações usando padrões comuns. Também conhecida como =="rede de redes"==, porque é formada literalmente por milhares de redes locais conectadas entre si.
 
 ## Redes Locais
 
-Redes locais possuem diversos tipos de tamanho, log que podem conectar poucos ou até milhões de dispositivos. Logo, as redes instaladas em pequenos escritórios ou em residências e escritórios domésticos são conhecidas como __SOHO(Pequeno Escritório Doméstico)__, com o objetivo de compartilhar recursos, tais como: impressoras, documentos, fotos e músicas entre os computadores locais.
+Redes locais possuem diversos tipos de tamanho, log que podem conectar poucos ou até milhões de dispositivos. Logo, as redes instaladas em pequenos escritórios ou em residências e escritórios domésticos são conhecidas como `SOHO(Pequeno Escritório Doméstico)`, com o objetivo de compartilhar recursos, tais como: impressoras, documentos, fotos e músicas entre os computadores locais.
 
 ## Exemplos
 

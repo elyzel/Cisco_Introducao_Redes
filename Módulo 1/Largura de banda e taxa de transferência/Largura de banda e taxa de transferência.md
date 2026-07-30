@@ -1,7 +1,7 @@
 
 # Largura de Banda
 
-Largura de banda é a capacidade máxima de um meio de transportar dados. A largura de banda digital mede a quantidade de dados que podem fluir de um lugar para outro durante um determinado tempo.
+Largura de banda é a ==capacidade máxima de um meio de transportar dados==. A largura de banda digital mede a quantidade de dados que podem fluir de um lugar para outro durante um determinado tempo.
 
 A largura de banda costuma ser medida pelo números de bits que podem ser enviados através da mídia em um segundo. Estão são as medidas comuns de largura de banda:
 
@@ -14,7 +14,7 @@ A largura de banda costuma ser medida pelo números de bits que podem ser enviad
 
 # Taxa de transferência
 
-Assim com a largura de banda, a taxa de transferência é a medida da transferência de bits através do meio físico durante um determinando período. Entretanto, devido a vários fatores, geralmente a taxa de transferência varia devido a fatores, como:
+Assim com a largura de banda, a taxa de transferência é a ==medida da transferência de bits através do meio físico durante um determinando período==. Entretanto, devido a vários fatores, geralmente a taxa de transferência varia devido a fatores, como:
 
 - A quantidade de dados enviados e recebidos pela conexão
 - Os tipos de dados transmitidos

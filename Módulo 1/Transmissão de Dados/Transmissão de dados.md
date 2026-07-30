@@ -23,7 +23,7 @@ Dados observados são dados compartilhados e armazenados passivamente para uma g
 
 Computadores utilizam dígitos binários para se comunicar, ou seja, são compostos por 0 e 1. O bit é uma abreviação de "dígito binário" e representa a menor parte de dados.
 
-Os computadores utilizam código binários para representar letras, números e caracteres especiais com bits. Um código muito usado é o ASCII (American Standard Code for information), sendo usado para representar praticamente qualquer tipo de informação digital.
+Os computadores utilizam código binários para representar letras, números e caracteres especiais com bits. Um código muito usado é o `ASCII (American Standard Code for information)`, sendo usado para representar praticamente qualquer tipo de informação digital.
 
 > [!NOTE]
 > Letra Maiúscula: A = 0100001
