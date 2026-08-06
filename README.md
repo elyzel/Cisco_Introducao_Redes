@@ -9,9 +9,9 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 ### Parte 1: Introdução e Infraestrutura Básica
 - [x] 📡 [Módulo 1: Comunicação em um Mundo Conectado](./Módulo%201/)
 - [x] 🖥️ [Módulo 2: Componentes, tipos e conexões de rede](./Módulo%202/)
-- [ ] 📶 [Módulo 3: Redes sem fio e móveis](./Módulo%203/)
-- [ ] 🏠 [Módulo 4: Construindo uma Rede Doméstica](./Módulo%204/)
-- [ ] 🧪 **Ponto de Verificação:** Construir uma pequena rede
+- [x] 📶 [Módulo 3: Redes sem fio e móveis](./Módulo%203/)
+- [x] 🏠 [Módulo 4: Construindo uma Rede Doméstica](./Módulo%204/)
+- [x] 🧪 **Ponto de Verificação:** Construir uma pequena rede
 
 ### Parte 2: Transmissão e Camada de Acesso
 - [ ] 💬 [Módulo 5: Princípios de comunicação](./Módulo%205/)
