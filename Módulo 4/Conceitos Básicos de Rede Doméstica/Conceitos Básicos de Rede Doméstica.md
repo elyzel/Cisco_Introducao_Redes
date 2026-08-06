@@ -14,9 +14,9 @@ Além de um roteador integrado, há muitos tipos diferentes de dispositivos que 
 
 Os roteadores de residências e pequenas empresas normalmente têm dois tipos de porta principais:
 
-__Portas Ethernet__: essas portas se conectam à parte interna dos switch no roteador. Essas portas são geralmente rotuladas como "Ethernet" ou "LAN". Todos os dispositivos conectados às portas switch estão na mesma rede local.
+- __Portas Ethernet__: essas portas se conectam à parte interna dos switch no roteador. Essas portas são geralmente rotuladas como "Ethernet" ou "LAN". Todos os dispositivos conectados às portas switch estão na mesma rede local.
 
-__Portas Internet__: essa porta é usada para conectar o dispositivo a outra rede. A porta internet conecta o roteador a uma rede diferente das portas Ethernet. Esta porta costuma ser usada para conectar o modem DSL ou a cabo para acessar a Internet.
+- __Portas Internet__: essa porta é usada para conectar o dispositivo a outra rede. A porta internet conecta o roteador a uma rede diferente das portas Ethernet. Esta porta costuma ser usada para conectar o modem DSL ou a cabo para acessar a Internet.
 
 Aqui está uma ilustração para exemplificar as portas:
 
