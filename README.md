@@ -14,7 +14,7 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 - [x] 🧪 **Ponto de Verificação:** Construir uma pequena rede
 
 ### Parte 2: Transmissão e Camada de Acesso
-- [ ] 💬 [Módulo 5: Princípios de comunicação](./Módulo%205/)
+- [x] 💬 [Módulo 5: Princípios de comunicação](./Módulo%205/)
 - [ ] 🔌 [Módulo 6: Mídia de rede](./Módulo%206/)
 - [ ] 🔑 [Módulo 7: A Camada de Acesso](./Módulo%207/)
 - [ ] 🧪 **Ponto de Verificação:** Acesso à rede
