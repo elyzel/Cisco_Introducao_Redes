@@ -15,9 +15,9 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 
 ### Parte 2: Transmissão e Camada de Acesso
 - [x] 💬 [Módulo 5: Princípios de comunicação](./Módulo%205/)
-- [ ] 🔌 [Módulo 6: Mídia de rede](./Módulo%206/)
-- [ ] 🔑 [Módulo 7: A Camada de Acesso](./Módulo%207/)
-- [ ] 🧪 **Ponto de Verificação:** Acesso à rede
+- [x] 🔌 [Módulo 6: Mídia de rede](./Módulo%206/)
+- [x] 🔑 [Módulo 7: A Camada de Acesso](./Módulo%207/)
+- [x] 🧪 **Ponto de Verificação:** Acesso à rede
 
 ### Parte 3: Endereçamento IP e Protocolos
 - [ ] 🌐 [Módulo 8: Protocolo de Internet (Internet Protocol - IP)](./Módulo%208/)
