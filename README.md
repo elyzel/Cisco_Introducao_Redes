@@ -21,7 +21,7 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 
 ### Parte 3: Endereçamento IP e Protocolos
 - [x] 🌐 [Módulo 8: Protocolo de Internet (Internet Protocol - IP)](./Módulo%208/)
-- [ ] 🔢 [Módulo 9: IPv4 e segmentação de rede](./Módulo%209/)
+- [x] 🔢 [Módulo 9: IPv4 e segmentação de rede](./Módulo%209/)
 - [ ] ⏩ [Módulo 10: Formatos e regras de endereçamento IPv6](./Módulo%2010/)
 - [ ] 🔄 [Módulo 11: Endereçamento dinâmico com DHCP](./Módulo%2011/)
 - [ ] 🧪 **Ponto de Verificação:** O protocolo da Internet
