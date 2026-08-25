@@ -23,13 +23,20 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 - [x] 🌐 [Módulo 8: Protocolo de Internet (Internet Protocol - IP)](./Módulo%208/)
 - [x] 🔢 [Módulo 9: IPv4 e segmentação de rede](./Módulo%209/)
 - [x] ⏩ [Módulo 10: Formatos e regras de endereçamento IPv6](./Módulo%2010/)
-- [ ] 🔄 [Módulo 11: Endereçamento dinâmico com DHCP](./Módulo%2011/)
-- [ ] 🧪 **Ponto de Verificação:** O protocolo da Internet
+- [x] 🔄 [Módulo 11: Endereçamento dinâmico com DHCP](./Módulo%2011/)
+- [x] 🧪 **Ponto de Verificação:** O protocolo da Internet
 
 ### Parte 4: Interconexão e Roteamento
 - [ ] 🚪 [Módulo 12: Gateways para outras redes](./Módulo%2012/)
 - [ ] 🔍 [Módulo 13: O Processo de ARP](./Módulo%2013/)
 - [ ] 🔀 [Módulo 14: Roteamento entre redes](./Módulo%2014/)
+- [ ] 🧪 **Ponto de Verificação:** Roteamento de rede
+
+### Parte 5: Camadas Superiores e Testes de Rede
+- [ ] 📦 [Módulo 15: TCP e UDP](./Módulo%2015/)
+- [ ] 🌐 [Módulo 16: Serviços da Camada de Aplicação](./Módulo%2016/)
+- [ ] 🛠️ [Módulo 17: Utilitários de teste de rede](./Módulo%2017/)
+- [ ] 🧪 **Ponto de Verificação:** Camadas de transporte e aplicação
 
 ---
 
