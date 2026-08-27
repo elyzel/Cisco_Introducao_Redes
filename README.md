@@ -27,9 +27,9 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 - [x] 🧪 **Ponto de Verificação:** O protocolo da Internet
 
 ### Parte 4: Interconexão e Roteamento
-- [ ] 🚪 [Módulo 12: Gateways para outras redes](./Módulo%2012/)
-- [ ] 🔍 [Módulo 13: O Processo de ARP](./Módulo%2013/)
-- [ ] 🔀 [Módulo 14: Roteamento entre redes](./Módulo%2014/)
+- [x] 🚪 [Módulo 12: Gateways para outras redes](./Módulo%2012/)
+- [x] 🔍 [Módulo 13: O Processo de ARP](./Módulo%2013/)
+- [x] 🔀 [Módulo 14: Roteamento entre redes](./Módulo%2014/)
 - [ ] 🧪 **Ponto de Verificação:** Roteamento de rede
 
 ### Parte 5: Camadas Superiores e Testes de Rede
