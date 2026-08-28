@@ -33,10 +33,10 @@ Repositório dedicado ao armazenamento de conceitos, resumos teóricos e anotaç
 - [x] 🧪 **Ponto de Verificação:** Roteamento de rede
 
 ### Parte 5: Camadas Superiores e Testes de Rede
-- [ ] 📦 [Módulo 15: TCP e UDP](./Módulo%2015/)
-- [ ] 🌐 [Módulo 16: Serviços da Camada de Aplicação](./Módulo%2016/)
-- [ ] 🛠️ [Módulo 17: Utilitários de teste de rede](./Módulo%2017/)
-- [ ] 🧪 **Ponto de Verificação:** Camadas de transporte e aplicação
+- [x] 📦 [Módulo 15: TCP e UDP](./Módulo%2015/)
+- [x] 🌐 [Módulo 16: Serviços da Camada de Aplicação](./Módulo%2016/)
+- [x] 🛠️ [Módulo 17: Utilitários de teste de rede](./Módulo%2017/)
+- [x] 🧪 **Ponto de Verificação:** Camadas de transporte e aplicação
 
 ---
 
